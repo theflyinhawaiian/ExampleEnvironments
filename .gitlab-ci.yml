@@ -17,6 +17,7 @@ compile:
   stage: compile
   script:
     - ./gradlew assemble
+    - sudo chmod u+x gradlew
 
 test:
   stage: test
