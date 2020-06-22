@@ -1,0 +1,6 @@
+<root>
+  <text>Hello World, from env2!</text>
+  <bgcolor>#383838</color>
+  <color>#ba2323</color>
+  <colorDark>#690000</colorDark>
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgColor">#383838</color>
+    <color name="colorPrimary">#ba2323</color>
+    <color name="colorPrimaryDark">#690000</color>
+    <string name="greetings_string">Hello, from env2!</string>
+</resources>

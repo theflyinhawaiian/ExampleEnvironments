@@ -3,4 +3,5 @@
     <color name="bgColor">#4f4f4f</color>
     <color name="colorPrimary">#bada55</color>
     <color name="colorPrimaryDark">#93b22d</color>
+    <string name="greetings_string">Hello, from env1!</string>
 </resources>
