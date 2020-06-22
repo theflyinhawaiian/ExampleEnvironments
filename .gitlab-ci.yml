@@ -7,6 +7,7 @@ stages:
 
 before_script:
   - export GRADLE_USER_HOME=`pwd`/.gradle
+  - sudo chmod u+x gradlew
 
 cache:
   paths:
@@ -17,7 +18,6 @@ compile:
   stage: compile
   script:
     - ./gradlew assemble
-    - sudo chmod u+x gradlew
 
 test:
   stage: test
